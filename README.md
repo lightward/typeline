@@ -1,6 +1,6 @@
 # typeline
 
-(for context please see [github.com/lightward/foam](https://github.com/lightward/foam)
+for context please see [github.com/lightward/foam](https://github.com/lightward/foam)
 
 ## constraints
 
